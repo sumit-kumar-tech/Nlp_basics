@@ -1,0 +1,4 @@
+envnlp/
+.ipynb_checkpoints/
+*.csv
+*.bin
